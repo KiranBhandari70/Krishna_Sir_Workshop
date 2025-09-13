@@ -1,0 +1,16 @@
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\bin\Debug\net8.0-windows\Krishna_Sir_Workshop.exe
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\bin\Debug\net8.0-windows\Krishna_Sir_Workshop.deps.json
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\bin\Debug\net8.0-windows\Krishna_Sir_Workshop.runtimeconfig.json
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\bin\Debug\net8.0-windows\Krishna_Sir_Workshop.dll
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\bin\Debug\net8.0-windows\Krishna_Sir_Workshop.pdb
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.Form1.resources
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.csproj.GenerateResource.cache
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.AssemblyInfoInputs.cache
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.AssemblyInfo.cs
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.dll
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\refint\Krishna_Sir_Workshop.dll
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.pdb
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\Krishna_Sir_Workshop.genruntimeconfig.cache
+C:\Users\Kiran\source\repos\Krishna_Sir_Workshop\obj\Debug\net8.0-windows\ref\Krishna_Sir_Workshop.dll
